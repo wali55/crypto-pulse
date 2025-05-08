@@ -17,8 +17,8 @@ const App: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-neutral-50 text-gray-800">
+      <NavBar />
       <div className="px-6 py-4">
-        <NavBar />
         <div className="max-w-3xl mx-auto my-4">
           <h1 className="text-2xl md:text-5xl font-semibold text-center mb-6 text-neutral-800 mt-10 tracking-tight">
             Track Live Market Data for Top Cryptocurrencies
