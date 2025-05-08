@@ -23,6 +23,7 @@ A responsive React + Redux Toolkit application that simulates real-time cryptocu
 
 ## 🧱 Architecture
 
+```text
 📁 public/
 └── 📁 assets/
     ├── bitcoin.png
@@ -43,6 +44,7 @@ A responsive React + Redux Toolkit application that simulates real-time cryptocu
 │       └── cryptoSlice.ts    # Redux slice for crypto updates
 ├── App.tsx                   # Main app with real-time logic
 └── index.tsx                 # Entry point with Redux Provider
+```
 
 ---
 

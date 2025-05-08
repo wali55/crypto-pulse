@@ -15,7 +15,7 @@ const App: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-neutral-50 text-gray-800 p-6">
-      <h1 className="text-3xl font-bold text-center mb-6 text-indigo-600">Crypto Tracker</h1>
+      <h1 className="text-3xl font-bold text-center mb-6 text-neutral-950">Crypto Tracker</h1>
       <CryptoTable />
     </div>
   );
