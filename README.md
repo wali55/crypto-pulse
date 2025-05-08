@@ -30,7 +30,7 @@ A responsive React + Redux Toolkit application that simulates real-time cryptocu
     ├── ethereum.png
     ├── tether.png
     ├── binance.png
-    ├── cardano.png
+    └── cardano.png
 
 📁 src/
 ├── 📁 components/

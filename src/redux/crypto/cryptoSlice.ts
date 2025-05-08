@@ -1,7 +1,6 @@
 import { createSlice } from '@reduxjs/toolkit';
 import { initialCryptoData } from './cryptoData';
 
-// Define a type for each crypto asset
 export interface CryptoAsset {
   id: number;
   name: string;
@@ -18,7 +17,7 @@ export interface CryptoAsset {
   chart: string;
 }
 
-// Define the state type
+
 const initialState: CryptoAsset[] = initialCryptoData;
 
 const cryptoSlice = createSlice({

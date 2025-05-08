@@ -33,7 +33,7 @@ const CryptoTable: React.FC = () => {
                 <img src={c.logo} alt={c.name} className="w-6 h-6" />
               </td>
               <td className="px-3 py-2 text-neutral-900">{c.name}</td>
-              <td className="px-3 py-2 font-light">{c.symbol}</td>
+              <td className="px-3 py-2 font-normal">{c.symbol}</td>
               <td className="px-3 py-2">${c.price}</td>
               <td className={`px-3 py-2 ${c.percentChange1h >= 0 ? 'text-green-600' : 'text-red-600'}`}>
                 {c.percentChange1h}%
