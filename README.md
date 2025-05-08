@@ -6,7 +6,8 @@ A responsive React + Redux Toolkit application that simulates real-time cryptocu
 
 ## 🚀 Demo
 
-![Watch Video Demo](https://your-video-link.com)
+🔗 [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1BFr7qy_RlQieTUDXDaEZ_VGE4n0l-XIA/view?usp=sharing)
+
 
 ---
 
